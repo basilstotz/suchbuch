@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Suchbuch
+Exec=/usr/share/bin/suchbuch
+Icon=suchbuch.png
+Type=Application
+Categories=Education
+Keywords="sprachen deutsch z1  lesen hören"
+

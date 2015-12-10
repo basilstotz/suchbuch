@@ -1,0 +1,22 @@
+{
+  "main": "/usr/share/prop/suchbuch/Suchbuch.swf",
+  "name": "Suchbuch",
+  "description": "lerne lesen",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "Suchbuch",
+    "icon": "/usr/share/pixmaps/suchbuch.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 2000,   
+    "height": 1000,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600
+     },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}
