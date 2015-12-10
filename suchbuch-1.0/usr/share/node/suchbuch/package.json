@@ -1,5 +1,5 @@
 {
-  "main": "/usr/share/prop/suchbuch/Suchbuch.swf",
+  "main": "file:///usr/share/prop/suchbuch/Suchbuch.swf",
   "name": "Suchbuch",
   "description": "lerne lesen",
   "version": "0.1.0",
